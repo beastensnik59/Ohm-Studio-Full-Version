@@ -239,4 +239,4 @@ This repository serves as the official landing page for Ohm Studio. The software
 **Get the most recent version of Ohm Studio today!**
 
 ---
-**Last updated:** 2026-10-08 08:35:56 UTC
+**Last updated:** 2026-10-08 16:13:02 UTC
